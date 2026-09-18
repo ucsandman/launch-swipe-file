@@ -32,6 +32,9 @@ Every file in `teardowns/` follows this shape:
 | [Cursor](teardowns/cursor.md) | Press, word of mouth | The AI code editor, "Google Docs for programmers" |
 | [Raycast](teardowns/raycast.md) | Launch HN, Launch Week, Product Hunt | A launcher that kills context switching |
 | [Arc](teardowns/arc.md) | Waitlist, X, press | Invite-only browser, "an OS for the internet" |
+| [GitHub HydraFusion](teardowns/hydrafusion.md) | Copilot blog, changelog, press | Pick the router, not the model |
+| [Xsolla AI Toolkit](teardowns/xsolla-ai-toolkit.md) | Press, GitHub, AI tool marketplaces | Ship the SKILL.md, not the docs |
+| [nexos.ai smart router](teardowns/nexos-smart-router.md) | Press release syndication | Coin a phrase for the problem |
 
 ## Contributing
 
