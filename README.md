@@ -35,6 +35,12 @@ Every file in `teardowns/` follows this shape:
 | [GitHub HydraFusion](teardowns/hydrafusion.md) | Copilot blog, changelog, press | Pick the router, not the model |
 | [Xsolla AI Toolkit](teardowns/xsolla-ai-toolkit.md) | Press, GitHub, AI tool marketplaces | Ship the SKILL.md, not the docs |
 | [nexos.ai smart router](teardowns/nexos-smart-router.md) | Press release syndication | Coin a phrase for the problem |
+| [JetBrains Air](teardowns/jetbrains-air.md) | CEO blog, press | AI can produce code, organizations still have to produce software |
+| [Google AX](teardowns/google-ax.md) | GitHub, HN launch | Billions of agents in the headline, Kubernetes in the quickstart |
+| [Databricks Unity Gateway CLI](teardowns/databricks-unity-gateway-cli.md) | Official blog, press | One command: freedom plus governance |
+| [OpenAI Codex at DevDay 2026](teardowns/openai-codex-devday-2026.md) | Keynote, press, docs | Work keeps going while your computer is asleep |
+| [Claude Sonnet 5.5](teardowns/claude-sonnet-55.md) | Press, API, Copilot | Half the price of Opus, faster than Opus |
+| [universal-modder](teardowns/universal-modder.md) | X thread, press | Every game is moddable now |
 
 ## Contributing
 
