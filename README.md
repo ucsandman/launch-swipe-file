@@ -41,6 +41,9 @@ Every file in `teardowns/` follows this shape:
 | [OpenAI Codex at DevDay 2026](teardowns/openai-codex-devday-2026.md) | Keynote, press, docs | Work keeps going while your computer is asleep |
 | [Claude Sonnet 5.5](teardowns/claude-sonnet-55.md) | Press, API, Copilot | Half the price of Opus, faster than Opus |
 | [universal-modder](teardowns/universal-modder.md) | X thread, press | Every game is moddable now |
+| [Cloudflare Web Search API](teardowns/cloudflare-web-search-api.md) | Changelog, HN | A router for search, not another index |
+| [Docker Agent](teardowns/docker-agent.md) | GitHub, HN | Agents as YAML, shipped inside Docker Desktop |
+| [ruOS (competitor)](teardowns/ruos-competitor.md) | Press release syndication | The host rather than the guest |
 
 ## Contributing
 
