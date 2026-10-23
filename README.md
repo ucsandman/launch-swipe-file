@@ -44,6 +44,12 @@ Every file in `teardowns/` follows this shape:
 | [Cloudflare Web Search API](teardowns/cloudflare-web-search-api.md) | Changelog, HN | A router for search, not another index |
 | [Docker Agent](teardowns/docker-agent.md) | GitHub, HN | Agents as YAML, shipped inside Docker Desktop |
 | [ruOS (competitor)](teardowns/ruos-competitor.md) | Press release syndication | The host rather than the guest |
+| [Agent Swarm](teardowns/agent-swarm.md) | Show HN, GitHub | The company OS for your agent team |
+| [New Relic Ground Truth CLI](teardowns/new-relic-ground-truth-cli.md) | Press syndication, product round-up | The CLI that never restarts an investigation |
+| [Meta Muse Spark Open](teardowns/meta-muse-spark-open.md) | Developer blog, 7-cloud distribution | Launch the distribution, not just the model |
+| [Sphinx](teardowns/sphinx.md) | Show HN | You can outsource your thinking, but not your understanding |
+| [OpenCode 2.0](teardowns/opencode-2.md) | Open-source release, press | The CLI becomes a persistent service |
+| [BAND for Developers](teardowns/band-developers.md) | Product launch, press | The coordination layer above every agent |
 
 ## Contributing
 
