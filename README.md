@@ -50,6 +50,12 @@ Every file in `teardowns/` follows this shape:
 | [Sphinx](teardowns/sphinx.md) | Show HN | You can outsource your thinking, but not your understanding |
 | [OpenCode 2.0](teardowns/opencode-2.md) | Open-source release, press | The CLI becomes a persistent service |
 | [BAND for Developers](teardowns/band-developers.md) | Product launch, press | The coordination layer above every agent |
+| [Entire](teardowns/entire.md) | Founder blog, press, X | Replace the pull request, not the workflow |
+| [GitHub Copilot Fusion](teardowns/github-copilot-fusion.md) | Keynote, changelog | Pick the router, not the model |
+| [Rystic](teardowns/rystic.md) | X, YC launch post | Mocks too fake, live APIs too risky |
+| [DeepSeek Super-Agent](teardowns/deepseek-super-agent.md) | GitHub, press | The agent that acts before being asked |
+| [RudderStack DevBox](teardowns/rudderstack-devbox.md) | Show HN, GitHub | 35% of our merged PRs, open-sourced |
+| [Herdr](teardowns/herdr.md) | Product launch, press | Close it, they keep working |
 
 ## Contributing
 
