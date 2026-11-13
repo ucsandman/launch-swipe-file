@@ -56,6 +56,9 @@ Every file in `teardowns/` follows this shape:
 | [DeepSeek Super-Agent](teardowns/deepseek-super-agent.md) | GitHub, press | The agent that acts before being asked |
 | [RudderStack DevBox](teardowns/rudderstack-devbox.md) | Show HN, GitHub | 35% of our merged PRs, open-sourced |
 | [Herdr](teardowns/herdr.md) | Product launch, press | Close it, they keep working |
+| [MCP1 by Appwrite](teardowns/mcp1.md) | Product Hunt, founder forum post | One URL for every MCP server |
+| [Arcjet AI security models](teardowns/arcjet-ai-security-models.md) | Press release, Product Hunt | Three moons, one job each |
+| [craft-anything](teardowns/craft-anything.md) | GitHub, word of mouth | Study it, rebuild it, check it |
 
 ## Contributing
 
